@@ -3,5 +3,6 @@
 ```
 Ideias na mesa;
 Fantástico
+Fantasia
 
 ```
